@@ -1,0 +1,239 @@
+﻿{  
+   "chart":{  
+      "caption":"P1",
+      "subcaption":"Click on a column to drill-down",
+      "numberprefix":"",
+      "showvalues":"0",
+      "bgcolor":"FFFFFF",
+      "xaxisname":"Estmate",
+      "yaxisname":"Hours",
+      "plotgradientcolor":"",
+      "showalternatehgridcolor":"0",
+      "showplotborder":"0",
+      "divlinecolor":"CCCCCC",
+      "canvasborderalpha":"0"
+   },
+   "data":[  
+      {  
+         "label":"P1",
+         "value":6400,
+         "link":"newchart-xml-P1",
+         "color":"008ee4",
+         "Total":0
+      }
+   ],
+   "linkeddata":[
+    {
+        "id": "P1",        
+        "linkedchart": {
+            "chart": {
+                "caption": "P1",
+                "subcaption": "Click on a column to drill-down",
+                "numberprefix": "",
+                "showvalues": "0",
+                "bgcolor": "FFFFFF",
+                "xaxisname": "P1",
+                "yaxisname": "Hours",
+                "plotgradientcolor": "",
+                "showalternatehgridcolor": "0",
+                "showplotborder": "0",
+                "divlinecolor": "CCCCCC",
+                "canvasborderalpha": "0"
+            },
+            "data": [
+                {
+                    "label": "M1",
+                    "value": 2800,
+                    "link": "newchart-xml-M1",
+                    "color": "008ee4",
+                    "Total": 0
+                },
+                {
+                    "label": "M2",
+                    "value": 3600,
+                    "link": "newchart-xml-M2",
+                    "color": "008ee4",
+                    "Total": 0
+                }
+            ],
+            "linkeddata": [
+                {
+                    "linkedchart": {
+                        "chart": {
+                            "caption": "M2",
+                            "subcaption": "Click on a column to drill-down",
+                            "numberprefix": "",
+                            "showvalues": "0",
+                            "bgcolor": "FFFFFF",
+                            "xaxisname": "M2",
+                            "yaxisname": "Hours",
+                            "plotgradientcolor": "",
+                            "showalternatehgridcolor": "0",
+                            "showplotborder": "0",
+                            "divlinecolor": "CCCCCC",
+                            "canvasborderalpha": "0"
+                        },
+                        "data": [
+                            {
+                                "label": "T1",
+                                "value": 1800,
+                                "link": "newchart-xml-T1",
+                                "color": "008ee4",
+                                "Total": 0
+                            },
+                            {
+                                "label": "T2",
+                                "value": 1800,
+                                "link": "newchart-xml-T2",
+                                "color": "008ee4",
+                                "Total": 0
+                            }
+                        ],
+                        "linkeddata": [
+                            {
+                                "linkedchart": {
+                                    "chart": {
+                                        "caption": "T2",
+                                        "subcaption": "Click on a column to drill-down",
+                                        "numberprefix": "",
+                                        "showvalues": "0",
+                                        "bgcolor": "FFFFFF",
+                                        "xaxisname": "T2",
+                                        "yaxisname": "Hours",
+                                        "plotgradientcolor": "",
+                                        "showalternatehgridcolor": "0",
+                                        "showplotborder": "0",
+                                        "divlinecolor": "CCCCCC",
+                                        "canvasborderalpha": "0"
+                                    },
+                                    "data": [
+
+                                    ],
+                                    "linkeddata": [
+
+                                    ]
+                                },
+                                "id": "T2"
+                            },
+                            {
+                                "linkedchart": {
+                                    "chart": {
+                                        "caption": "T2",
+                                        "subcaption": "Click on a column to drill-down",
+                                        "numberprefix": "",
+                                        "showvalues": "0",
+                                        "bgcolor": "FFFFFF",
+                                        "xaxisname": "T2",
+                                        "yaxisname": "Hours",
+                                        "plotgradientcolor": "",
+                                        "showalternatehgridcolor": "0",
+                                        "showplotborder": "0",
+                                        "divlinecolor": "CCCCCC",
+                                        "canvasborderalpha": "0"
+                                    },
+                                    "data": [
+
+                                    ],
+                                    "linkeddata": [
+
+                                    ]
+                                },
+                                "id": "T2"
+                            }
+                        ]
+                    },
+                    "id": "M2"
+                },
+                {
+                    "linkedchart": {
+                        "chart": {
+                            "caption": "M2",
+                            "subcaption": "Click on a column to drill-down",
+                            "numberprefix": "",
+                            "showvalues": "0",
+                            "bgcolor": "FFFFFF",
+                            "xaxisname": "M2",
+                            "yaxisname": "Hours",
+                            "plotgradientcolor": "",
+                            "showalternatehgridcolor": "0",
+                            "showplotborder": "0",
+                            "divlinecolor": "CCCCCC",
+                            "canvasborderalpha": "0"
+                        },
+                        "data": [
+                            {
+                                "label": "T1",
+                                "value": 1800,
+                                "link": "newchart-xml-T1",
+                                "color": "008ee4",
+                                "Total": 0
+                            },
+                            {
+                                "label": "T2",
+                                "value": 1800,
+                                "link": "newchart-xml-T2",
+                                "color": "008ee4",
+                                "Total": 0
+                            }
+                        ],
+                        "linkeddata": [
+                            {
+                                "linkedchart": {
+                                    "chart": {
+                                        "caption": "T2",
+                                        "subcaption": "Click on a column to drill-down",
+                                        "numberprefix": "",
+                                        "showvalues": "0",
+                                        "bgcolor": "FFFFFF",
+                                        "xaxisname": "T2",
+                                        "yaxisname": "Hours",
+                                        "plotgradientcolor": "",
+                                        "showalternatehgridcolor": "0",
+                                        "showplotborder": "0",
+                                        "divlinecolor": "CCCCCC",
+                                        "canvasborderalpha": "0"
+                                    },
+                                    "data": [
+
+                                    ],
+                                    "linkeddata": [
+
+                                    ]
+                                },
+                                "id": "T2"
+                            },
+                            {
+                                "linkedchart": {
+                                    "chart": {
+                                        "caption": "T2",
+                                        "subcaption": "Click on a column to drill-down",
+                                        "numberprefix": "",
+                                        "showvalues": "0",
+                                        "bgcolor": "FFFFFF",
+                                        "xaxisname": "T2",
+                                        "yaxisname": "Hours",
+                                        "plotgradientcolor": "",
+                                        "showalternatehgridcolor": "0",
+                                        "showplotborder": "0",
+                                        "divlinecolor": "CCCCCC",
+                                        "canvasborderalpha": "0"
+                                    },
+                                    "data": [
+
+                                    ],
+                                    "linkeddata": [
+
+                                    ]
+                                },
+                                "id": "T1"
+                            }
+                        ]
+                    },
+                    "id": "M1"
+                }
+            ]
+        }
+
+    }
+   ]
+}
